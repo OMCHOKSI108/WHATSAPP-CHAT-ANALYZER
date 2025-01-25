@@ -10,6 +10,7 @@ A Streamlit-based web application to analyze and visualize WhatsApp chat data. T
 - **Visualizations**: Generate word clouds, bar graphs, and activity trends.
 - **Media Insights**: View media share counts and link statistics.
 - **Custom Chat Format Support**: Automatically converts improperly formatted files into a usable format.
+- **You can also see a person wise analysis in this App by clicking left side dropdown list**
 
 ---
 
